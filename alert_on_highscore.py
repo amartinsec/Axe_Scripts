@@ -7,7 +7,7 @@ import json
 
 # === CONFIG ===
 BITAXE_HOSTS = [
-    "_____BITAXE_#1_HERE_____",
+    "_____BITAXE_HERE_____",
     "_____NERDAXE_HERE_____",
     "_____MORE_DEVICES_HERE_____"
 ]
