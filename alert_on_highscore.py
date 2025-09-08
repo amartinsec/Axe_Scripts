@@ -5,7 +5,7 @@ import requests
 import time
 import json
 
-# === CONFIG ===
+# _____CONFIG_____
 BITAXE_HOSTS = [
     "_____BITAXE_HERE_____",
     "_____NERDAXE_HERE_____",
