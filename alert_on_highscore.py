@@ -17,7 +17,7 @@ TELEGRAM_CHAT_ID = "_____TELEGRAM_ID_HERE_____"
 POLL_INTERVAL = 60  # seconds
 HTTP_TIMEOUT = 10   # seconds
 
-last_bestshares = {}  # key: device identifier, value: int bestNonceDiff
+last_bestshares = {}  
 
 def format_with_suffix(number):
     suffixes = [
