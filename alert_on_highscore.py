@@ -1,5 +1,5 @@
 # Will send an alert when a new high diff is reached on any of your bit/nerdaxes.
-# Run on the same lan as the axes 
+# Run on the same lan as the *axes 
 
 import requests
 import time
